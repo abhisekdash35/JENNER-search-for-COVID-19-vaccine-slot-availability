@@ -5,7 +5,8 @@ This application searches the COWIN database for available COVID-19 vaccine slot
 The project is written in java. You can run this application locally on your computer and get real time updates which are verified to be faster than notifications through third party messaging apps.
 
 ## Project Dependancies
-1) JAVA 1.8 or higher must be installed on your syatem
+1) JAVA 1.8 or higher must be installed on your syatem. 
+To install Java visit https://java.com/en/download/help/download_options.html
 2) Dependant libraries are available in the lib folder.
 3) Curl tool must be installed on your system. Curl for Windows is also available with the project and can be installed. Curl for other operating systems can be downloaded from https://curl.se/
 
