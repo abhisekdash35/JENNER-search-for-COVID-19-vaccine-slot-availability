@@ -1,7 +1,7 @@
 
 # JENNER
 
-This project  searches the COWIN website for available COVID-19 vaccine slots and notifies the user whenever slots are available based on certain criteria.
+This application searches the COWIN website for available COVID-19 vaccine slots and notifies the user whenever slots are available based on certain criteria.
 The project is written in java.
 
 ## Project Dependancies
