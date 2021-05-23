@@ -18,7 +18,7 @@ To run the project from the command line, go to the extracted folder and type
 java -jar "JENNER.jar" 
 You may also double click on JENNER.jar to launch tha application.
 
-## Snapshot
+## Snapshots
 
 ![Capture](https://user-images.githubusercontent.com/72568856/119268024-9e84cf00-bc0e-11eb-9452-45ec02ebb084.PNG)
 ![Capture2](https://user-images.githubusercontent.com/72568856/119273685-a00fc080-bc29-11eb-8480-a26607cbc89d.PNG)
