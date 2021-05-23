@@ -1,6 +1,6 @@
 # JENNER
 
-This project  searches the COWIN website for available vaccine slots.
+This project  searches the COWIN website for available COVID-19 vaccine slots.
 The project is written in java.
 
 ## Project Dependancies
