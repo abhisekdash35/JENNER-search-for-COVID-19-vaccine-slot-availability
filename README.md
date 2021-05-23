@@ -1,3 +1,4 @@
+
 # JENNER
 
 This project  searches the COWIN website for available COVID-19 vaccine slots.
@@ -11,3 +12,7 @@ The project is written in java.
 
 To run the project from the command line, 
 java -jar "JENNER.jar" 
+
+## Demo
+
+![Capture](https://user-images.githubusercontent.com/72568856/119268024-9e84cf00-bc0e-11eb-9452-45ec02ebb084.PNG)
