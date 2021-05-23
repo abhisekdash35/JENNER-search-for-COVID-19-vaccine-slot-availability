@@ -13,6 +13,7 @@ The project is written in java.
 
 To run the project from the command line, 
 java -jar "JENNER.jar" 
+You may also double click on JENNER.jar to launch tha application.
 
 ## Snapshot
 
