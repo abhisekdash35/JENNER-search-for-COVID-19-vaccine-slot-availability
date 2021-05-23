@@ -6,7 +6,8 @@ The project is written in java.
 
 ## Project Dependancies
 1) JAVA 1.8 or higher.
-2) cURL tool. cURL for Windows can be downloaded from https://curl.se/windows/
+2) Dependant libraries are available in the lib folder.
+3) cURL tool. cURL for Windows can be downloaded from https://curl.se/windows/
 
 ## To run this project
 
