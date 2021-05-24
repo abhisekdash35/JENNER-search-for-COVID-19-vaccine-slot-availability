@@ -4,6 +4,9 @@
 This application searches the COWIN database for available COVID-19 vaccine slots and notifies the user whenever slots are available based on certain criteria.
 The project is written in java. You can run this application locally on your computer and get real time updates which are verified to be faster than notifications through third party messaging apps. Faster notifications improve your chances of booking a slot.
 
+## Tips
+To improve your chances of booking a slot, searching only one district for a single day is reccomended. This will reduce latency and give you faster notification. You may also search multiple districts for multiple dates if you wish. 
+
 ## Project Dependancies
 1) JAVA 1.8 or higher must be installed on your syatem. 
 To install Java visit https://java.com/en/download/help/download_options.html. To check whether Java is installed on your system type the command "java -version" in the command line and check the output. If Java is installed then you should see the version.
