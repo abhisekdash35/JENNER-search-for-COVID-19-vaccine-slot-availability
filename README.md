@@ -12,7 +12,7 @@ To improve your chances of booking a slot, searching only one district for a sin
 
 ## To download and run this project
 ### Automatic Install (On Windows)
-1) Download this application from this website to your computer by selecting the "Code" dropdown on the project page. 
+1) Download this application from this website to your computer by selecting the "Code" dropdown on the project page. You may also download just the file JENNER_for_Windows.exe for this installation.
 2) You can choose Download zip.
 3) Extract the zip file
 4) Double click on JENNER_for_Windows.exe
