@@ -23,3 +23,6 @@ To install Java visit https://java.com/en/download/help/download_options.html. T
 ![Capture](https://user-images.githubusercontent.com/72568856/119268024-9e84cf00-bc0e-11eb-9452-45ec02ebb084.PNG)
 ![Capture2](https://user-images.githubusercontent.com/72568856/119273685-a00fc080-bc29-11eb-8480-a26607cbc89d.PNG)
 
+## Busg/Issues
+To report any bug or issue kindly raise the issue in github.
+You may also send mails to abhisekdash35@gmail.com with error description and screenshots (if possible)
