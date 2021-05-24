@@ -1,5 +1,5 @@
 
-# JENNER-Search for COVID-19 vaccine slot availability.
+# JENNER-Real time fast updates for COVID-19 vaccine slot availability.
 
 ### For user interface snapshots, scroll down.
 This application searches the COWIN database for available COVID-19 vaccine slots and notifies the user whenever slots are available based on certain criteria.
