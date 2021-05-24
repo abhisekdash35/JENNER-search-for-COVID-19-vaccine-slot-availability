@@ -7,7 +7,7 @@ The project is written in java. You can run this application locally on your com
 #### Since this application runs on your computer and provides the results directly to you it is much faster than bulk notifications through messages and email.  Faster notifications improve your chances of booking a slot.
 
 ## Tips
-To improve your chances of booking a slot, searching only one district for a single day is recommended. This will reduce latency and give you faster notifications. You may also search multiple districts for multiple dates if you wish. 
+1) To improve your chances of booking a slot, searching only one district for a single day is recommended. This will reduce latency and give you faster notifications. You may also search multiple districts for multiple dates if you wish.
 
 
 ## To download and run this project
