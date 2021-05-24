@@ -24,6 +24,10 @@ To install Java visit https://java.com/en/download/help/download_options.html. T
 ## Alert Mechanisms
 This software will provide audio alerts on your computer once slots are open which match your criteria. It needs to run continously on your computer/laptop. Make sure to turn on the volume of your computer/laptop.
 
+## Warnings
+1) Do not run multiple instances of this application on your computer, this may exceed the limit of api calls/min provided by covin. If your IP address gets blocked, then you will not recieve updates and the application will throw an error. If your IP gets blocked wait for 5 mins and restart the application.
+2) Also do not run multiple instances of this application on two separate computers connected to single router. This will also cause the same problem mentioned in above point.
+
 ## Snapshots
 
 ![Capture](https://user-images.githubusercontent.com/72568856/119268024-9e84cf00-bc0e-11eb-9452-45ec02ebb084.PNG)
