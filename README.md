@@ -21,7 +21,7 @@ To improve your chances of booking a slot, searching only one district for a sin
 8) You can uninstall the application at any time through Control Panel. 
 ### Manual Install
 #### Project Dependancies
-1) JAVA 1.8 or higher must be installed on your syatem. 
+1) JAVA 1.8 or higher must be installed on your system. 
 To install Java visit https://java.com/en/download/help/download_options.html. To check whether Java is installed on your system type the command "java -version" in the command line and check the output. If Java is installed then you should see the version.
 2) Curl must be installed on your system. Curl for Windows is also available with the project and can be installed by going to the following file and executing it.
   curl-7.76.1-win64-mingw -> bin -> curl.exe. The folder curl-7.76.1-win64-mingw will be available when you download this projeect
