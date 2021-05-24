@@ -21,6 +21,9 @@ To install Java visit https://java.com/en/download/help/download_options.html. T
 3) Extract the zip file
 4) To run the project from the command line, go to the extracted folder and type java -jar "JENNER.jar" .You may also double click on JENNER.jar to launch the application.
 
+## Alert Mechanisms
+This software will provide audio alerts on your computer once slots are open which match your criteria. It needs to run continously on your computer/laptop. Make sure to turn on the volume of your computer/laptop.
+
 ## Snapshots
 
 ![Capture](https://user-images.githubusercontent.com/72568856/119268024-9e84cf00-bc0e-11eb-9452-45ec02ebb084.PNG)
