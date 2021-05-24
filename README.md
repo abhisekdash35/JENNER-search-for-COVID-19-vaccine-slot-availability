@@ -2,7 +2,7 @@
 # JENNER-Search for COVID-19 vaccine slot availability.
 
 This application searches the COWIN database for available COVID-19 vaccine slots and notifies the user whenever slots are available based on certain criteria.
-The project is written in java. You can run this application locally on your computer and get real time updates which are verified to be faster than notifications through third party messaging apps. Faster notifications improve your chances of booking a slot.
+The project is written in java. You can run this application locally on your computer and get real time updates which are verified to be faster than notifications through third party messaging apps. Since this application runs on your computer and povides the results directly to you. It is much faster than bulk notifications through messages and email.  Faster notifications improve your chances of booking a slot.
 
 ## Tips
 To improve your chances of booking a slot, searching only one district for a single day is reccomended. This will reduce latency and give you faster notification. You may also search multiple districts for multiple dates if you wish. 
